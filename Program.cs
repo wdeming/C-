@@ -24,7 +24,7 @@ if (second_number > first_number)
     max = second_number;
 if (third_number > max)
     max = third_number;
-Console.WriteLine("Максимальным числом из укаханных является число:" + max);
+Console.WriteLine("Максимальным числом из указанных является число:" + max);
 // ну или 
 // int max = new[] { first_number, second_number, third_number }.Max();
 // Console.WriteLine("Максимальным числом из укаханных является число:" + max);
